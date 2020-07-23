@@ -5,6 +5,7 @@ browser = webdriver.Firefox(executable_path=r"C:\Users\jolate\Desktop\Proyectos\
 browser.get("https://www.google.com")
 
 print(browser)
+print(browser)
 
 # def prueba():w
 #     webdriver driver
